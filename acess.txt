@@ -1,3 +1,2 @@
 test
 senha
-10 minutos
